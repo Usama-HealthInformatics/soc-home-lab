@@ -43,18 +43,6 @@ A documented security operations workflow from log collection through incident r
 
 A simulated investigation of repeated authentication failures, including triage, analysis, risk assessment, and response.
 
-### Detection Engineering
-
-A documented detection rule for repeated failed authentication activity.
-
-### Incident Response
-
-An authentication-security incident-response playbook covering identification, triage, investigation, containment, eradication, recovery, and lessons learned.## Project Areas
-
-### Security Monitoring
-
-Review security events and identify activity that may require investigation.
-
 ### Log Analysis
 
 Analyze authentication, system, network, and security events to identify suspicious behavior.
