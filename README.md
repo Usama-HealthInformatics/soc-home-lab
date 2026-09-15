@@ -33,8 +33,23 @@ Response & Remediation
      ↓
 Lessons Learned
 ```
-
 ## Project Areas
+
+### SOC Workflow
+
+A documented security operations workflow from log collection through incident response.
+
+### Failed Login Investigation
+
+A simulated investigation of repeated authentication failures, including triage, analysis, risk assessment, and response.
+
+### Detection Engineering
+
+A documented detection rule for repeated failed authentication activity.
+
+### Incident Response
+
+An authentication-security incident-response playbook covering identification, triage, investigation, containment, eradication, recovery, and lessons learned.## Project Areas
 
 ### Security Monitoring
 
@@ -101,9 +116,10 @@ soc-home-lab/
 ├── incident-response/
 └── reports/
 ```
-
 ## Status
 
-**In Progress**
+**Completed — Documentation-Based SOC Operations Lab**
 
-This project will document SOC workflows, detection scenarios, alert investigations, and incident-response exercises.
+The project documents a complete defensive SOC workflow covering security monitoring, log analysis, alert investigation, detection engineering, and incident response.
+
+The scenarios are explicitly documented as simulated training exercises and do not claim access to production systems or unauthorized environments.
